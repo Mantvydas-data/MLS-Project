@@ -8,13 +8,13 @@ MACHINE LEARNING AND STATISTICS, Winter 22/23
 Photo by <a href="https://unsplash.com/@santesson89?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Andrea De Santis</a> on <a href="https://unsplash.com/photos/zwd435-ewb4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 <h2 style="text-align: center;">ATU Machine Learning and Statistics Assessment 2022</h2>
-<h2 style="text-align: center;">This repository contains Timeseries Anomaly Detection using Keras overview and module exercises.</h2>
+<h2 style="text-align: center;">This repository contains Timeseries Anomaly Detection using Keras Autoencoder and module exercises.</h2>
 <h4>Student: Mantvydas Jokubaitis</h4>
 
 ___
 
 <h3>Introduction</h3>
-<p>This repository contains assessment for Machine Learning and Statistics 2022 module. Files include: requirements, gitignore, readme file, CSV data files, Jupyter notebooks:Timeseries Anomaly Detection using Keras and module exercises. <br>
+<p>This repository contains assessment for Machine Learning and Statistics 2022 module. Files include: requirements, gitignore, readme file, SVG graph, Jupyter notebooks:Timeseries Anomaly Detection using Keras and module exercises. <br>
 Assessment instructions can be downloaded <a href="https://github.com/ianmcloughlin/2223-S1-machine-learn-stats/blob/main/assessment/2223-machine-learning-stats-assessment.pdf">here</a>.</p>
 
 <h3>Problem statement</h3>
@@ -36,18 +36,10 @@ Assessment instructions can be downloaded <a href="https://github.com/ianmclough
 
 <p><a href="https://numpy.org/doc/stable/user/quickstart.html">Numpy</a> - NumPy is the fundamental package for scientific computing in Python.</p>
 <p><a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html">Matplotlib- Pyplot</a> - Matplotlib.pyplot is a state-based interface to matplotlib, where Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.</p>
-<p><a href="https://seaborn.pydata.org/">Seaborn</a> - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.</p>
 <p><a href="https://jupyterlab.readthedocs.io/en/latest/">Jupyter</a> - JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, and data.</p>
 <p><a href="https://www.anaconda.com/products/individual">Anaconda</a> - Python based platform for Data Science.</p>
 <p><a href="https://pandas.pydata.org/">Pandas</a> - Python package for working with dataframes.</p>
-<p><a href="https://pandas.pydata.org/">Camenot</a> - Package for PDF table extraction.</p>
-
-<p>Libraries:</p>
-<p>-----</p>
-<p>-----</p>
-<p>-----</p>
-<p>-----</p>
-
+<p><a href="https://keras.io/">Keras</a> - Keras is an open-source software library that provides a Python interface for artificial neural networks.</p>
 
 ___
 
