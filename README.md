@@ -58,4 +58,4 @@ ___
 
 Static version: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Mantvydas-data/MLS-Project/blob/main/Timeseries%20Anomaly%20Detection%20using%20Keras.ipynb)
 
-Dynamic version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mantvydas-data/MLS-Project/692d4cf73114dbb415604c685e2ca9829b9a903f)
+Dynamic version: [![Binder](https://hub.gke2.mybinder.org/user/mantvydas-data-mls-project-b5ggnfwo/lab)
